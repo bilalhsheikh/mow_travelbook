@@ -1,0 +1,4 @@
+Use attached Template.txt + SA.png.
+Treat Template.txt as binding production specs.
+If output violates Template.txt, regenerate internally before showing.
+Generate [Page Name].

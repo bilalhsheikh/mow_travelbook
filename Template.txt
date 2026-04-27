@@ -1,0 +1,226 @@
+MASJID BOOK – FINAL LOCKED DESIGN SYSTEM (8.5 x 11 @ 300 DPI)
+
+==================================================
+
+PRIMARY AUTHORITY RULE
+
+This Template.txt is the binding production specification.
+
+All future generations MUST strictly comply.
+
+If any default model behavior conflicts with this file:
+TEMPLATE.TXT OVERRIDES ALL DEFAULTS.
+
+==================================================
+
+MANDATORY ASSET RULE (CRITICAL)
+
+Use the attached SA.png as the OFFICIAL MASTER ASSET SHEET.
+
+SA.png is NOT reference art.
+SA.png is NOT inspiration.
+
+SA.png is the exact source for:
+
+• Boy character style
+• Girl character style
+• Character proportions
+• Character expressions
+• Character rendering style
+• Dialogue box style
+• Dialogue avatars
+• Subtitle banner style
+• Bottom fact row container style
+• Bottom row icon style
+• Decorative gold accents
+• Overall UI consistency
+
+All future pages MUST visually match SA.png.
+
+Do not redesign assets.
+Do not reinterpret assets.
+Do not substitute styles.
+
+==================================================
+
+CANVAS
+
+2550 x 3300 px RGB
+8.5 x 11 inches
+300 DPI exact
+
+==================================================
+
+MARGINS
+
+Top: 150 px
+Bottom: 200 px
+Left: 150 px
+Right: 150 px
+
+==================================================
+
+LAYOUT GRID
+
+0–500     TITLE
+500–800   SUBTITLE + INTRO
+800–2200  MAIN MASJID IMAGE
+2000–2600 DIALOGUE OVERLAP
+2400–3100 KIDS FOREGROUND
+3000–3300 FACT ROW
+
+==================================================
+
+FONTS
+
+Headings: Baloo 2 Bold
+Body: Nunito Regular / SemiBold
+
+No substitutions allowed.
+
+==================================================
+
+TYPOGRAPHY LOCK
+
+Title: 60 pt
+Subtitle: 26 pt
+Intro: 23 pt
+Dialogue: 28 pt
+Bottom Fact Row: 22 pt minimum
+
+Never shrink text below these values.
+
+==================================================
+
+CHARACTER SYSTEM (FROM SA.png)
+
+Use SAME character faces and rendering style as SA.png.
+
+Soft illustrated / semi-painterly
+
+Required:
+
+• Large expressive eyes
+• Soft rounded cheeks
+• Warm skin gradients
+• Smooth shading
+• Soft edges
+• Friendly respectful emotion
+• Consistent proportions
+
+Forbidden:
+
+• Vector characters
+• Flat shading
+• Sharp outlines
+• Different art style
+• Randomized faces
+
+Locale clothing may change.
+Base child identity/style must remain SA.png.
+
+==================================================
+
+DIALOGUE BOX SYSTEM (FROM SA.png)
+
+Use same dialogue box design as SA.png.
+
+Rounded rectangle
+White fill
+Soft shadow
+
+Stroke:
+Boy = Blue
+Girl = Red
+
+Width: 1800 px centered
+
+POINTER RULE (NON-NEGOTIABLE)
+
+Boy box:
+ONE pointer only
+LEFT side only
+
+Girl box:
+ONE pointer only
+RIGHT side only
+
+Never both sides.
+Never centered.
+
+==================================================
+
+SUBTITLE BANNER
+
+Use exact SA.png style.
+
+Green rounded pill
+Gold side ornaments
+White centered text
+
+==================================================
+
+SEPARATOR
+
+Use approved decorative gold separator.
+
+Centered.
+Elegant.
+Small scale.
+Do not oversize motif.
+
+==================================================
+
+BOTTOM FACT ROW (FROM SA.png)
+
+Use exact SA.png fact row system.
+
+Cream container
+Gold border
+Rounded corners
+Equal columns
+Consistent icon size
+
+Text:
+22 pt minimum
+Strong readability
+
+No tiny text.
+No compressed text.
+
+==================================================
+
+COLOR SYSTEM
+
+Navy #1F2A44
+Green #2E7D32
+Gold #D4A64A
+Cream #FFF8E7
+Text #333333
+
+==================================================
+
+NON-NEGOTIABLE RULES
+
+• Exact canvas size required
+• Use SA.png assets
+• Bottom row text readable
+• Dialogue largest body text
+• Correct single pointers only
+• No style drift
+• No font substitutions
+• No layout improvisation
+
+==================================================
+
+FINAL CHECK BEFORE OUTPUT
+
+1. 2550x3300 exact?
+2. Uses SA.png style?
+3. Bottom row text readable?
+4. Single correct pointers?
+5. Kids match asset sheet?
+6. Typography compliant?
+
+If YES = OUTPUT
+If NO = REGENERATE
