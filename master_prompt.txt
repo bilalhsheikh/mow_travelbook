@@ -1,4 +1,12 @@
-Use attached Template.txt + SA.png.
-Treat Template.txt as binding production specs.
-If output violates Template.txt, regenerate internally before showing.
-Generate [Page Name].
+Use github.com/bilalhsheikh/mow_travelbook as the single source of truth.
+
+Read:
+- Template.txt
+- SA.png
+- master_prompt.txt
+
+No deviations.
+No reinterpretation.
+No missing rules.
+
+Generate [Page Name] final master version.

@@ -119,6 +119,14 @@ Forbidden:
 Locale clothing may change.
 Base child identity/style must remain SA.png.
 
+Recurring character names for all pages:
+
+Boy = Yusuf
+Girl = Yasmeen
+
+Use names in all dialogue boxes instead of Boy/Girl.
+Keep same character faces, age range, proportions, and personality across all pages.
+
 ==================================================
 
 DIALOGUE BOX SYSTEM (FROM SA.png)
