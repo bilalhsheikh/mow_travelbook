@@ -1,234 +1,322 @@
-MASJID BOOK – FINAL LOCKED DESIGN SYSTEM (8.5 x 11 @ 300 DPI)
+MASJIDS OF THE WORLD — MASTER TEMPLATE v9.4
+(OPTICAL BALANCE FINAL FIX EDITION)
 
 ==================================================
-
-PRIMARY AUTHORITY RULE
-
-This Template.txt is the binding production specification.
-
-All future generations MUST strictly comply.
-
-If any default model behavior conflicts with this file:
-TEMPLATE.TXT OVERRIDES ALL DEFAULTS.
-
+SOURCE OF TRUTH PRIORITY
 ==================================================
 
-MANDATORY ASSET RULE (CRITICAL)
+1. Template_v9.4.txt
+2. SA_v2.0.png
+3. blueprint_v3.3_PRO_4950x3300.png
+4. Approved reference spread style
+5. Runtime prompt
 
-Use the attached SA.png as the OFFICIAL MASTER ASSET SHEET.
+Nothing overrides Template_v9.4.txt
 
-SA.png is NOT reference art.
-SA.png is NOT inspiration.
-
-SA.png is the exact source for:
-
-• Boy character style
-• Girl character style
-• Character proportions
-• Character expressions
-• Character rendering style
-• Dialogue box style
-• Dialogue avatars
-• Subtitle banner style
-• Bottom fact row container style
-• Bottom row icon style
-• Decorative gold accents
-• Overall UI consistency
-
-All future pages MUST visually match SA.png.
-
-Do not redesign assets.
-Do not reinterpret assets.
-Do not substitute styles.
+If conflict occurs:
+- Template first
+- SA_v2.0 for styling/components
+- Blueprint for coordinates/layout
 
 ==================================================
-
-CANVAS
-
-2550 x 3300 px RGB
-8.5 x 11 inches
-300 DPI exact
-
+MASTER PURPOSE
 ==================================================
 
-MARGINS
+Generate premium two-page children’s educational spreads
+about masjids of the world.
 
-Top: 150 px
-Bottom: 200 px
-Left: 150 px
-Right: 150 px
+Must feel:
 
-==================================================
+- polished
+- premium
+- warm
+- educational
+- elegant
+- child-friendly
+- collectible book quality
 
-LAYOUT GRID
+Architecture style:
 
-0–500     TITLE
-500–800   SUBTITLE + INTRO
-800–2200  MAIN MASJID IMAGE
-2000–2600 DIALOGUE OVERLAP
-2400–3100 KIDS FOREGROUND
-3000–3300 FACT ROW
+storybook illustration
+digital painting
+children’s travel book artwork
 
-==================================================
-
-FONTS
-
-Headings: Baloo 2 Bold
-Body: Nunito Regular / SemiBold
-
-No substitutions allowed.
+NEVER photo.
+NEVER photorealistic.
+NEVER camera realism.
 
 ==================================================
-
-TYPOGRAPHY LOCK
-
-Title: 60 pt
-Subtitle: 26 pt
-Intro: 23 pt
-Dialogue: 28 pt
-Bottom Fact Row: 22 pt minimum
-
-Never shrink text below these values.
-
+CANVAS LOCK (NON-NEGOTIABLE)
 ==================================================
 
-CHARACTER SYSTEM (FROM SA.png)
+Canvas Size:
+4950 x 3300 px exact
 
-Use SAME character faces and rendering style as SA.png.
+Two equal pages only:
 
-Soft illustrated / semi-painterly
+LEFT PAGE:
+X = 0 to 2474
+
+RIGHT PAGE:
+X = 2475 to 4949
+
+CENTER SEAM:
+X = 2475 exact vertical line
+
+No page may appear wider.
+No optical widening.
+No left-page dominance.
+No right-page compression.
+
+==================================================
+CRITICAL OPTICAL COMPENSATION LAW
+==================================================
+
+Because image models over-emphasize hero pages,
+apply compensation:
+
+LEFT PAGE visible content = reduce visual spread by 2%
+
+RIGHT PAGE visible content = increase visual spread by 2%
+
+Meaning:
+
+- Left page art inset more from seam
+- Right page panels breathe wider
+- Left title plaque narrower
+- Right header wider
+- Right fact row wider
+
+If equal mathematically but left still FEELS wider:
+REGENERATE.
+
+==================================================
+BLEED + SAFE AREA
+==================================================
+
+Outer trim safety:
+60 px minimum
+
+Inner seam safety:
+50 px minimum
+
+No text near trim.
+No panel touching trim.
+
+==================================================
+BLUEPRINT LAW (ABSOLUTE)
+==================================================
+
+Use blueprint_v3.3_PRO_4950x3300.png exactly.
+
+Blueprint is geometry authority.
+
+No resizing zones.
+No shifting zones.
+No seam drift.
+No artistic reinterpretation.
+
+If artwork conflicts:
+BLUEPRINT WINS.
+
+==================================================
+GLOBAL STYLE LOCK
+==================================================
+
+Use SA_v2.0.png styling system.
 
 Required:
 
-• Large expressive eyes
-• Soft rounded cheeks
-• Warm skin gradients
-• Smooth shading
-• Soft edges
-• Friendly respectful emotion
-• Consistent proportions
-
-Forbidden:
-
-• Vector characters
-• Flat shading
-• Sharp outlines
-• Different art style
-• Randomized faces
-
-Locale clothing may change.
-Base child identity/style must remain SA.png.
-
-Recurring character names for all pages:
-
-Boy = Yusuf
-Girl = Yasmeen
-
-Use names in all dialogue boxes instead of Boy/Girl.
-Keep same character faces, age range, proportions, and personality across all pages.
+- cream paper background
+- royal blue plaques
+- emerald green ribbons
+- gold outlines
+- rounded cream panels
+- premium soft shadows
+- elegant ornaments
 
 ==================================================
-
-DIALOGUE BOX SYSTEM (FROM SA.png)
-
-Use same dialogue box design as SA.png.
-
-Rounded rectangle
-White fill
-Soft shadow
-
-Stroke:
-Boy = Blue
-Girl = Red
-
-Width: 1800 px centered
-
-POINTER RULE (NON-NEGOTIABLE)
-
-Boy box:
-ONE pointer only
-LEFT side only
-
-Girl box:
-ONE pointer only
-RIGHT side only
-
-Never both sides.
-Never centered.
-
+TYPOGRAPHY LOCK
 ==================================================
 
-SUBTITLE BANNER
+Primary Heading Fonts:
+- Baloo 2 ExtraBold
+- Fredoka Bold
+- Cooper Rounded Bold
 
-Use exact SA.png style.
+Body Fonts:
+- Nunito
+- Poppins
+- Rounded sans serif
 
-Green rounded pill
-Gold side ornaments
-White centered text
-
-==================================================
-
-SEPARATOR
-
-Use approved decorative gold separator.
-
-Centered.
-Elegant.
-Small scale.
-Do not oversize motif.
+Never use:
+- thin fonts
+- narrow fonts
+- sharp fonts
 
 ==================================================
-
-BOTTOM FACT ROW (FROM SA.png)
-
-Use exact SA.png fact row system.
-
-Cream container
-Gold border
-Rounded corners
-Equal columns
-Consistent icon size
-
-Text:
-22 pt minimum
-Strong readability
-
-No tiny text.
-No compressed text.
-
+FONT SIZES
 ==================================================
 
-COLOR SYSTEM
+LEFT TITLE:
+138 px
 
-Navy #1F2A44
-Green #2E7D32
-Gold #D4A64A
-Cream #FFF8E7
-Text #333333
+LOCATION:
+70 px
 
-==================================================
+RIGHT HEADER:
+96 px
 
-NON-NEGOTIABLE RULES
+BODY:
+46 px
 
-• Exact canvas size required
-• Use SA.png assets
-• Bottom row text readable
-• Dialogue largest body text
-• Correct single pointers only
-• No style drift
-• No font substitutions
-• No layout improvisation
+FACT HEADINGS:
+44 px
+
+FACT BODY:
+34–40 px
 
 ==================================================
+PAGE BALANCE LAW
+==================================================
 
-FINAL CHECK BEFORE OUTPUT
+Both pages must feel identical in width,
+weight,
+presence,
+breathing room.
 
-1. 2550x3300 exact?
-2. Uses SA.png style?
-3. Bottom row text readable?
-4. Single correct pointers?
-5. Kids match asset sheet?
-6. Typography compliant?
+If user glances quickly,
+no page should feel larger.
 
-If YES = OUTPUT
-If NO = REGENERATE
+==================================================
+LEFT PAGE ZONES
+==================================================
+
+ZONE 1 — TITLE PLAQUE
+
+Centered inside LEFT page only.
+
+Width = 90% max of left safe area.
+
+Never oversized.
+
+ZONE 2 — LOCATION RIBBON
+
+Centered below title.
+
+ZONE 3 — HERO ART
+
+Accurate masjid.
+Warm illustrated style.
+
+Must stop before seam comfortably.
+
+No content leaning into right page.
+
+ZONE 4 — MINI MAP PANEL
+
+Header only:
+WHERE IN THE WORLD?
+
+Interior empty.
+
+No text.
+No city/country.
+No pins.
+No map.
+
+==================================================
+RIGHT PAGE ZONES
+==================================================
+
+ZONE 5 — HEADER
+
+Meet the Masjid!
+
+Centered inside right page.
+
+Must feel generous width.
+
+ZONE 6 — CHARACTER PANEL
+
+Use Yusuf + Yasmeen.
+
+Friendly respectful expressions.
+
+ZONE 7 — BLURB PANEL
+
+Cream rounded panel.
+
+5–7 sentences.
+
+ZONE 8 — FACT ROW
+
+ONLY TWO BOXES:
+
+BUILT
+FAMOUS FOR
+
+Boxes equal width.
+Equal height.
+Wide enough to feel spacious.
+
+==================================================
+ANTI-DRIFT HARD RULES
+==================================================
+
+Do NOT enlarge left hero scene to compensate.
+
+Do NOT compress right panels.
+
+Do NOT pull seam visually right.
+
+Do NOT let left title dominate.
+
+Do NOT let right page feel narrow.
+
+==================================================
+STRICT BANS
+==================================================
+
+NO aerial inset
+NO third fact box
+NO Arabic text
+NO map text
+NO page imbalance
+NO seam crossing titles
+NO compressed right page
+NO oversized left page
+
+==================================================
+AUTO REJECT IF ANY TRUE
+==================================================
+
+[ ] Left page feels wider
+[ ] Right page feels narrow
+[ ] Seam appears off-center
+[ ] Left title oversized
+[ ] Right content cramped
+[ ] Hero image crosses seam bias
+[ ] Spread feels 52/48 instead of 50/50
+
+If any true:
+REGENERATE AUTOMATICALLY
+
+==================================================
+FINAL QA
+==================================================
+
+[ ] 4950x3300 exact
+[ ] Left 2475 px
+[ ] Right 2475 px
+[ ] Seam x=2475
+[ ] Optical balance fixed
+[ ] Right page equal presence
+[ ] Blueprint obeyed
+[ ] Mini-map empty
+[ ] Two fact boxes only
+[ ] Print ready
+
+==================================================
+END TEMPLATE v9.4 FINAL FIX
+==================================================

@@ -1,12 +1,13 @@
-Use github.com/bilalhsheikh/mow_travelbook as the single source of truth.
+Use attached Template_v9.4.txt, blueprint_v3.3_PRO_4950x3300.png, and SA.png as the only source of truth.
 
-Read:
-- Template.txt
-- SA.png
-- master_prompt.txt
+Generate final production-quality two-page spread for:
 
-No deviations.
-No reinterpretation.
-No missing rules.
+Masjid: [NAME]
+Location: [CITY, COUNTRY]
 
-Generate [Page Name] final master version.
+Leave world map panel clean and elegant for later manual map insertion.
+
+Change the kids' hand gestures slightly every time.
+
+Follow Template.txt exactly.
+Regenerate automatically if any QA rule fails.
